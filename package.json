@@ -1,0 +1,17 @@
+{
+  "name": "artsfurama",
+  "version": "1.0.0",
+  "description": "Furama Resort Da Nang - Custom Art Order & Progress Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["furama", "custom-art", "orders"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.0"
+  }
+}
